@@ -1,5 +1,5 @@
 <template>
-  <div>Morty</div>
+  <div>Rick & Morty</div>
 </template>
 
 <script setup lang="ts"></script>
